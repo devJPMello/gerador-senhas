@@ -9,10 +9,6 @@ Um gerador de senhas seguro e personalizável, desenvolvido com HTML, CSS e Java
 - Opção para incluir números, símbolos e letras maiúsculas
 - Copiar senha com um clique
 
-## 🎨 Captura de Tela
-
-![Preview do projeto](./preview.png)
-
 ## 🛠️ Tecnologias Usadas
 
 - HTML5
